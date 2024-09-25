@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="_20">20</string>
+    <string name="bombs">"Bombas: "</string>
+    <string name="load">"Carregar "</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="restart">Recomeçar</string>
+    <string name="save">Gravar</string>
+    <string name="textview">TextView</string>
+    <string name="wmessage">Ganhaste!!</string>
+    <string name="lmessage">Perdeste!!</string>
+</resources>

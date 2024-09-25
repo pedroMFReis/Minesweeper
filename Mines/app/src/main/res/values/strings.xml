@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="load">LOAD</string>
+    <string name="save">SAVE</string>
+    <string name="restart">RESTART</string>
+    <string name="bombs">Bombs:</string>
+    <string name="_20">20</string>
+    <string name="lmessage">You Loose!!</string>
+    <string name="new_game">New game</string>
+    <string name="wmessage">You Win!!!</string>
+</resources>
